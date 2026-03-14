@@ -37,6 +37,7 @@ const ExperienceSection = () => {
             src={productImage}
             alt="Le Crousty — poulet croustillant sur riz"
             className="w-full max-w-3xl h-auto object-contain"
+            style={{ animation: "glowPulse 4s ease-in-out 1.5s infinite" }}
           />
         </motion.div>
 

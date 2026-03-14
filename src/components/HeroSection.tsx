@@ -96,7 +96,8 @@ const HeroSection = () => {
               transition={{ repeat: Infinity, duration: 4, ease: "easeInOut" }}
               src={heroDish}
               alt="Le Crousty — poulet croustillant sur riz"
-              className="relative z-10 w-full max-w-xl lg:max-w-2xl xl:max-w-3xl h-auto drop-shadow-2xl"
+              className="relative z-10 w-full max-w-xl lg:max-w-2xl xl:max-w-3xl h-auto"
+              style={{ animation: "glowPulse 3s ease-in-out infinite" }}
             />
           </motion.div>
         </div>

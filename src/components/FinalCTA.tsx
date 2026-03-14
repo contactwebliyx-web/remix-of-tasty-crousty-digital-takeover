@@ -88,6 +88,17 @@ const FinalCTA = () => {
         <p className="text-center text-muted-foreground text-xs font-body tracking-wider">
           © 2026 TASTY CROUSTY — LE VRAI PHÉNOMÈNE
         </p>
+        <p className="text-center text-xs font-body tracking-wider mt-1">
+          Site réalisé par{" "}
+          <a
+            href="https://webliyx.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-neon-green hover:text-neon-pink transition-colors duration-300"
+          >
+            WEBLIYX
+          </a>
+        </p>
       </div>
     </section>
   );
