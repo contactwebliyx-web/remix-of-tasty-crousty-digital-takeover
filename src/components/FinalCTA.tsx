@@ -17,7 +17,7 @@ const FinalCTA = () => {
           transition={{ duration: 0.6 }}
           className="text-neon-green text-sm tracking-[0.3em] uppercase mb-6 font-body"
         >
-          Rejoins le mouvement
+          Une proposition. Zéro risque.
         </motion.p>
 
         <motion.h2
@@ -39,7 +39,7 @@ const FinalCTA = () => {
           transition={{ duration: 0.6, delay: 0.3 }}
           className="text-muted-foreground text-lg md:text-xl max-w-md mx-auto mb-12 font-body"
         >
-          Commande maintenant et découvre pourquoi tout le monde en parle.
+          Tasty Crousty mérite une présence en ligne à la hauteur. On s'en occupe.
         </motion.p>
 
         <motion.div
@@ -53,13 +53,13 @@ const FinalCTA = () => {
             href="#"
             className="px-10 py-5 font-display text-xl tracking-wider bg-primary text-primary-foreground neon-pink-glow hover:scale-105 transition-all duration-300"
           >
-            COMMANDER MAINTENANT
+            TRAVAILLER AVEC WEBLIYX
           </a>
           <a
             href="#"
             className="px-10 py-5 font-display text-xl tracking-wider border-2 border-neon-green text-neon-green hover:bg-neon-green hover:text-background neon-green-glow transition-all duration-300"
           >
-            TROUVER UN RESTAURANT
+            VOIR NOS RÉALISATIONS
           </a>
         </motion.div>
 
@@ -87,6 +87,17 @@ const FinalCTA = () => {
       <div className="absolute bottom-0 left-0 right-0 py-6 border-t border-border/30">
         <p className="text-center text-muted-foreground text-xs font-body tracking-wider">
           © 2026 TASTY CROUSTY — LE VRAI PHÉNOMÈNE
+        </p>
+        <p className="text-center text-xs font-body tracking-wider mt-1">
+          Site réalisé par{" "}
+          <a
+            href="https://webliyx.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-neon-green hover:text-neon-pink transition-colors duration-300"
+          >
+            WEBLIYX
+          </a>
         </p>
       </div>
     </section>

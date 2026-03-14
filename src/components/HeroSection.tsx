@@ -57,7 +57,7 @@ const HeroSection = () => {
               transition={{ duration: 0.6, delay: 0.5 }}
               className="text-muted-foreground text-lg md:text-xl mb-10 font-body max-w-md mx-auto lg:mx-0"
             >
-              Tu veux goûter Tasty Crousty ?
+              Le phénomène qui cartonne sans site web. Imagine avec un.
             </motion.p>
 
             <motion.div
@@ -70,7 +70,7 @@ const HeroSection = () => {
                 href="#menu"
                 className="px-8 py-4 font-display text-xl tracking-wider border-2 border-foreground text-foreground hover:bg-foreground hover:text-background transition-all duration-300"
               >
-                DÉCOUVRIR LE MENU
+                VOIR LA DÉMO COMPLÈTE
               </a>
               <a
                 href="#commander"
@@ -96,7 +96,8 @@ const HeroSection = () => {
               transition={{ repeat: Infinity, duration: 4, ease: "easeInOut" }}
               src={heroDish}
               alt="Le Crousty — poulet croustillant sur riz"
-              className="relative z-10 w-full max-w-xl lg:max-w-2xl xl:max-w-3xl h-auto drop-shadow-2xl"
+              className="relative z-10 w-full max-w-xl lg:max-w-2xl xl:max-w-3xl h-auto"
+              style={{ animation: "glowPulse 3s ease-in-out infinite" }}
             />
           </motion.div>
         </div>
