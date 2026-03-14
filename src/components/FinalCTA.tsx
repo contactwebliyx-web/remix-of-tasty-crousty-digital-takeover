@@ -39,7 +39,7 @@ const FinalCTA = () => {
           transition={{ duration: 0.6, delay: 0.3 }}
           className="text-muted-foreground text-lg md:text-xl max-w-md mx-auto mb-12 font-body"
         >
-          Commande maintenant et découvre pourquoi tout le monde en parle.
+          Tasty Crousty mérite une présence en ligne à la hauteur. On s'en occupe.
         </motion.p>
 
         <motion.div
