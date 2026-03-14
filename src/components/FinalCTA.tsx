@@ -53,7 +53,7 @@ const FinalCTA = () => {
             href="#"
             className="px-10 py-5 font-display text-xl tracking-wider bg-primary text-primary-foreground neon-pink-glow hover:scale-105 transition-all duration-300"
           >
-            COMMANDER MAINTENANT
+            TRAVAILLER AVEC WEBLIYX
           </a>
           <a
             href="#"
