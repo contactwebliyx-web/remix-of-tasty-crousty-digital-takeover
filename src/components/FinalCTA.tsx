@@ -17,7 +17,7 @@ const FinalCTA = () => {
           transition={{ duration: 0.6 }}
           className="text-neon-green text-sm tracking-[0.3em] uppercase mb-6 font-body"
         >
-          Rejoins le mouvement
+          Une proposition. Zéro risque.
         </motion.p>
 
         <motion.h2
