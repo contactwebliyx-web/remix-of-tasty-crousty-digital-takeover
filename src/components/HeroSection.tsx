@@ -70,7 +70,7 @@ const HeroSection = () => {
                 href="#menu"
                 className="px-8 py-4 font-display text-xl tracking-wider border-2 border-foreground text-foreground hover:bg-foreground hover:text-background transition-all duration-300"
               >
-                DÉCOUVRIR LE MENU
+                VOIR LA DÉMO COMPLÈTE
               </a>
               <a
                 href="#commander"
