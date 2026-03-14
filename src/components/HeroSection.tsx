@@ -57,7 +57,7 @@ const HeroSection = () => {
               transition={{ duration: 0.6, delay: 0.5 }}
               className="text-muted-foreground text-lg md:text-xl mb-10 font-body max-w-md mx-auto lg:mx-0"
             >
-              Tu veux goûter Tasty Crousty ?
+              Le phénomène qui cartonne sans site web. Imagine avec un.
             </motion.p>
 
             <motion.div
