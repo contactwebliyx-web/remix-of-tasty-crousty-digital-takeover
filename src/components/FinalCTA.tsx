@@ -59,7 +59,7 @@ const FinalCTA = () => {
             href="#"
             className="px-10 py-5 font-display text-xl tracking-wider border-2 border-neon-green text-neon-green hover:bg-neon-green hover:text-background neon-green-glow transition-all duration-300"
           >
-            TROUVER UN RESTAURANT
+            VOIR NOS RÉALISATIONS
           </a>
         </motion.div>
 
